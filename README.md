@@ -17,13 +17,13 @@ Why?
 
     - Bullet list that addresses the three key differences in weather between June and December
     
-    June
+ ### June:
     
-    ![image](https://user-images.githubusercontent.com/90485451/153123328-c259c63a-8877-4186-a55a-cd36a7a871f2.png)
+   ![image](https://user-images.githubusercontent.com/90485451/153123328-c259c63a-8877-4186-a55a-cd36a7a871f2.png)
 
-    December
+ ### December:
     
-    ![image](https://user-images.githubusercontent.com/90485451/153123393-62b6be7f-ce18-48e0-83d7-ef7a353a3fcf.png)
+   ![image](https://user-images.githubusercontent.com/90485451/153123393-62b6be7f-ce18-48e0-83d7-ef7a353a3fcf.png)
 
 
 
